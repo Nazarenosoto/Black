@@ -1,0 +1,54 @@
+@import url("https://fonts.googleapis.com/css2?family=Cormorant+SC&family=Koulen&family=Prosto+One&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Cormorant SC", serif;
+}
+
+.fondo {
+  background: black;
+}
+
+/* GO! */
+.incio {
+  font-family: "Cormorant SC", serif;
+  margin-top: 320px;
+  border: 2px solid aqua;
+  border-radius: 10px;
+  width: 40%;
+}
+.incio a {
+  font-size: 80px;
+  color: aliceblue;
+}
+.incio a:hover {
+  color: rgb(0, 255, 242);
+  transition: 1s;
+}
+
+/*Inicio de la pagina*/
+.texto {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin-top: 100px;
+}
+.texto h3 {
+  font-size: 45px;
+  color: rgb(109, 255, 255);
+}
+
+.div-1 {
+  font-size: 55px;
+  margin-top: 80px;
+}
+
+/* Section 1*/
+.div-2 {
+  margin-top: 90px;
+  align-items: flex-start;
+}
+.div-2 p {
+  font-size: 20px;
+  color: aliceblue;
+}/*# sourceMappingURL=style.css.map */
