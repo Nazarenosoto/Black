@@ -1,0 +1,171 @@
+        /*medias del banner*/
+
+        /*media 1000*/
+        @media screen and (min-width: 1000px){
+            .banner{
+                    position: relative;
+                    width: auto;
+                    height: calc(40vh - 20px);
+                    background-color: #f5f5ff;
+                    background-size: cover;
+                    background-position: center;
+                    transition: all 0.1s ease-in-out;
+                    background-image: url(../img/Hero.jpg);
+                }
+            }
+
+            /*media 375*/
+            @media screen and (min-width: 375px){
+                .banner{
+                        position: relative;
+                        width: auto;
+                        height: calc(40vh - 20px);
+                        background-color: #f5f5ff;
+                        background-size: cover;
+                        background-position: center;
+                        transition: all 0.1s ease-in-out;
+                        background-image: url(../img/Hero.jpg);
+                    }
+                    a{
+                        img{
+                            border-radius: 75px;
+                            position: relative;
+                            margin-top: 35px;
+                            width: 220px;
+                        }
+                    }
+                }
+
+                /*media 360*/
+                @media screen and (min-width: 360px){
+                    .banner{
+                            position: relative;
+                            width: auto;
+                            height: calc(35vh - 20px);
+                            background-color: #f5f5ff;
+                            background-size: cover;
+                            background-position: center;
+                            transition: all 0.1s ease-in-out;
+                            background-image: url(../img/Hero.jpg);
+                        }
+                        a{
+                            img{
+                                border-radius: 75px;
+                                position: relative;
+                                margin-top: 35px;
+                                width: 220px;
+                            }
+                        }
+                    }
+
+                /*media 912*/
+                @media screen and (min-width: 912px){
+                    .banner{
+                            position: relative;
+                            width: auto;
+                            height: calc(30vh - 20px);
+                            background-color: #f5f5ff;
+                            background-size: cover;
+                            background-position: center;
+                            transition: all 0.1s ease-in-out;
+                            background-image: url(../img/Hero.jpg);
+                        }
+                        a{
+                            img{
+                                border-radius: 75px;
+                                position: relative;
+                                margin-top: 65px;
+                                width: 220px;
+                            }
+                        }
+                    }
+
+                    /*media 1024*/
+                    @media screen and (min-width: 1024px){
+                        .banner{
+                                position: relative;
+                                width: auto;
+                                height: calc(50vh - 20px);
+                                background-color: #f5f5ff;
+                                background-size: cover;
+                                background-position: center;
+                                transition: all 0.1s ease-in-out;
+                                background-image: url(../img/Hero.jpg);
+                            }
+                            a{
+                                img{
+                                    border-radius: 75px;
+                                    position: relative;
+                                    margin-top: 30px;
+                                    width: 240px;
+                                }
+                            }
+                        }
+
+                        /*media 1280*/
+                            @media screen and (min-width: 1280px){
+                                .banner{
+                            position: relative;
+                            width: auto;
+                            height: calc(40vh - 20px);
+                            background-color: #f5f5ff;
+                            background-size: cover;
+                            background-position: center;
+                            transition: all 0.1s ease-in-out;
+                            background-image: url(../img/Hero.jpg);
+                }
+                a{
+                    img{
+                        border-radius: 75px;
+                        position: relative;
+                        margin-top: 30px;
+                        width: 260px;
+                    }
+                }
+            }
+            /*media 414*/
+            @media screen and (min-width: 414px){
+                .banner{
+                        position: relative;
+                        width: auto;
+                        height: calc(30vh - 20px);
+                        background-color: #f5f5ff;
+                        background-size: cover;
+                        background-position: center;
+                        transition: all 0.1s ease-in-out;
+                        background-image: url(../img/Hero.jpg);
+                    }
+                    a{
+                        img{
+                            border-radius: 75px;
+                            position: relative;
+                            margin-top: 35px;
+                            width: 220px;
+                        }
+                    }
+                }
+                /*media 412*/
+            @media screen and (min-width: 412px){
+                .banner{
+                        position: relative;
+                        width: auto;
+                        height: calc(30vh - 20px);
+                        background-color: #f5f5ff;
+                        background-size: cover;
+                        background-position: center;
+                        transition: all 0.1s ease-in-out;
+                        background-image: url(../img/Hero.jpg);
+                    }
+                    a{
+                        img{
+                            border-radius: 75px;
+                            position: relative;
+                            margin-top: 35px;
+                            width: 220px;
+                        }
+                    }
+                }
+
+        /*medias de influencers*/
+
+
