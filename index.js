@@ -1,7 +1,7 @@
 const siquesi = document.querySelector('#si')
 
 siquesi.addEventListener('click', function (){
-    Swal.fire('sabia que no ibas a decir que no😎, que dia podés?')
+    Swal.fire('Sabia que querías jaja, ¿a que hora voy?')
 })
 
 const noqueno = document.querySelector('#no')
